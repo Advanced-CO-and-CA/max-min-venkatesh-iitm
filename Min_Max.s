@@ -1,7 +1,7 @@
 
 /******************************************************************************
 * file: Min_Max.s
-* author: G S Nitesh Narayana
+* author: Venkatesh Ravipati(Cs18M531)
 * Guide: Prof. Madhumutyam IITM, PACE
 ******************************************************************************/
 
